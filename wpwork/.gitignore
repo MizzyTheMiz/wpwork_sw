@@ -1,0 +1,15 @@
+# Ignore personal configuration files and directories
+.bash_history
+.bash_logout
+.bashrc
+.cache/
+.docker/
+.gitconfig
+.profile
+.selected_editor
+.ssh/
+.sudo_as_admin_successful
+.viminfo
+
+# Ignore the script itself (if desired)
+git-mon.sh
